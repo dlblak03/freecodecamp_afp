@@ -1,2 +1,1 @@
-# freecodecamp_afp
-Arithmetic Formatter Project
+# Arithmetic Formatter Project
